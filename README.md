@@ -1,6 +1,6 @@
 # KAGGLE_CANCER_ANALYSIS
 
-![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)
+![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)![images](https://github.com/user-attachments/assets/17753e59-fdd3-49c7-b216-a52ac3e94404)
 
 
 
